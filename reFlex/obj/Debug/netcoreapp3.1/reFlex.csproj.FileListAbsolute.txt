@@ -1,0 +1,13 @@
+D:\Projects\reFlex\reFlex\bin\Debug\netcoreapp3.1\reFlex.exe
+D:\Projects\reFlex\reFlex\bin\Debug\netcoreapp3.1\reFlex.deps.json
+D:\Projects\reFlex\reFlex\bin\Debug\netcoreapp3.1\reFlex.runtimeconfig.json
+D:\Projects\reFlex\reFlex\bin\Debug\netcoreapp3.1\reFlex.runtimeconfig.dev.json
+D:\Projects\reFlex\reFlex\bin\Debug\netcoreapp3.1\reFlex.dll
+D:\Projects\reFlex\reFlex\bin\Debug\netcoreapp3.1\reFlex.pdb
+D:\Projects\reFlex\reFlex\obj\Debug\netcoreapp3.1\reFlex.csprojAssemblyReference.cache
+D:\Projects\reFlex\reFlex\obj\Debug\netcoreapp3.1\reFlex.AssemblyInfoInputs.cache
+D:\Projects\reFlex\reFlex\obj\Debug\netcoreapp3.1\reFlex.AssemblyInfo.cs
+D:\Projects\reFlex\reFlex\obj\Debug\netcoreapp3.1\reFlex.csproj.CoreCompileInputs.cache
+D:\Projects\reFlex\reFlex\obj\Debug\netcoreapp3.1\reFlex.dll
+D:\Projects\reFlex\reFlex\obj\Debug\netcoreapp3.1\reFlex.pdb
+D:\Projects\reFlex\reFlex\obj\Debug\netcoreapp3.1\reFlex.genruntimeconfig.cache
